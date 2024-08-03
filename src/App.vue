@@ -17,11 +17,6 @@
     <br />
     <ul>
       <li>Wir verlassen die Schweiz.</li>
-      <li>Wir verlassen die Schweiz.</li>
-      <li>Wir verlassen die Schweiz.</li>
-      <li>Wir verlassen die Schweiz.</li>
-      <li>Wir verlassen die Schweiz.</li>
-      <li>Wir verlassen die Schweiz.</li>
     </ul>
   </body>
 </template>
@@ -45,7 +40,7 @@ h1 {
   font-family: 'Roboto', sans-serif;
   font-size: 80px;
   font-weight: 900;
-  letter-spacing: -0.5px;
+  letter-spacing: -1px;
 }
 .teaser {
   font-weight: 500;
@@ -63,8 +58,14 @@ ul {
 }
 @media (max-width: 800px) {
   h1 {
-    font-size: 50px;
-    letter-spacing: -0.5px;
+    font-size: 60px;
+    letter-spacing: -1px;
+  }
+}
+@media (max-width: 500px) {
+  h1 {
+    font-size: 44px;
+    letter-spacing: -1px;
   }
 }
 </style>
