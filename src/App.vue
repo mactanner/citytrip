@@ -17,6 +17,7 @@
     <br />
     <ul>
       <li>Wir verlassen die Schweiz.</li>
+      <li>Man spricht dort nicht Deutsch.</li>
     </ul>
   </body>
 </template>
