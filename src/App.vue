@@ -18,6 +18,7 @@
     <ul>
       <li>Wir verlassen die Schweiz.</li>
       <li>Man spricht dort nicht Deutsch.</li>
+      <li>Die Stadt liegt an einem Gewässer.</li>
     </ul>
   </body>
 </template>
