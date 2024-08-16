@@ -19,6 +19,7 @@
       <li>Wir verlassen die Schweiz.</li>
       <li>Man spricht dort nicht Deutsch.</li>
       <li>Die Stadt liegt an einem Gewässer.</li>
+      <li>Es handelt sich um eine Studentenstadt.</li>
     </ul>
   </body>
 </template>
