@@ -20,6 +20,7 @@
       <li>Man spricht dort nicht Deutsch.</li>
       <li>Die Stadt liegt an einem Gewässer.</li>
       <li>Es handelt sich um eine Studentenstadt.</li>
+      <li>Unser Ziel liegt südlich von Luzern.</li>
     </ul>
   </body>
 </template>
