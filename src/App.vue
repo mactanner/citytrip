@@ -21,6 +21,7 @@
       <li>Die Stadt liegt an einem Gewässer.</li>
       <li>Es handelt sich um eine Studentenstadt.</li>
       <li>Unser Ziel liegt südlich von Luzern.</li>
+      <li>In der Region gibt es guten Wein. 🍷</li>
     </ul>
   </body>
 </template>
