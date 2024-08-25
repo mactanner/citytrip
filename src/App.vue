@@ -22,7 +22,7 @@
       <li>Es handelt sich um eine Studentenstadt.</li>
       <li>Unser Ziel liegt südlich von Luzern.</li>
       <li>In der Region gibt es guten Wein. 🍷</li>
-      <li>Die Stadt hat mehr als 200'000 Einwohner</li>
+      <li>Die Stadt hat mehr als 200'000 Einwohner.</li>
     </ul>
   </body>
 </template>
