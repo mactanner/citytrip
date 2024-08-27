@@ -94,7 +94,7 @@
       <div>Nun bist du dran: Wohin gehen wir?</div>
       <br />
       <form @submit.prevent="checkCity">
-        <input class="city-input" type="text" id="city" v-model="cityName" placeholder="Stadt" />
+        <input class="city-input" type="text" id="city" v-model="cityName" placeholder="City" />
         <button type="submit" class="submit-button">Check</button>
       </form>
       <br />
@@ -121,7 +121,7 @@ export default {
   },
   methods: {
     checkCity() {
-      if (btoa(this.cityName.toLowerCase()) === 'bW9udHBlbGxpZXI=') {
+      if (btoa(this.cityName.trim().toLowerCase()) === 'bW9udHBlbGxpZXI=') {
         this.isDestinationFound = true
         this.wrongInput = false
       } else {
