@@ -25,14 +25,15 @@
       <h2>Reise</h2>
       <h3>Treffpunkt</h3>
       <p>
-        08:30 Uhr bei Alain. Mac fährt mit dem Auto an den Flughafen Basel. Am Sonntag wird's etwas
-        spät mit der Rückreise. Daher sind wir mit dem Auto wohl am besten bedient.
+        Freitag, 6. September 08:30 Uhr bei Alain.<br />Mac fährt mit dem Auto an den Flughafen
+        Basel. Am Sonntag wird's etwas spät mit der Rückreise. Daher sind wir mit dem Auto wohl am
+        besten bedient.
       </p>
-      <h3>Hinflug</h3>
+      <h3>Hinflug: Basel - Montpellier</h3>
       <p>Freitag, 6. September</p>
       <p>🛫 11:55</p>
       <p>🛬 13:10</p>
-      <h3>Rückflug</h3>
+      <h3>Rückflug: Montpellier - Basel</h3>
       <p>Sonntag, 8. September</p>
       <p>🛫 21:45</p>
       <p>🛬 23:00</p>
@@ -215,9 +216,11 @@ form {
   }
   .city-input {
     font-size: 16px;
+    padding: 10px 10px;
   }
   .submit-button {
     font-size: 16px;
+    padding: 10px 10px;
   }
 }
 </style>
