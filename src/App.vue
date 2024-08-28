@@ -90,6 +90,7 @@
         <li>Unser Ziel liegt südlich von Luzern.</li>
         <li>In der Region gibt es guten Wein. 🍷</li>
         <li>Die Stadt hat mehr als 200'000 Einwohner.</li>
+        <li>Die Altstadt ist ein Labyrinth aus engen Gassen und versteckten Plätzen.</li>
       </ul>
       <br />
       <div>Nun bist du dran: Wohin gehen wir?</div>
