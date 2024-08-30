@@ -68,7 +68,7 @@
       <h3>Sonntag</h3>
       <ul>
         <li>Petit-déjeuner</li>
-        <li>Savoir-vivre und Laissez-faire Pérols am Meer</li>
+        <li>Savoir-vivre und Laissez-faire in Pérols am Meer</li>
         <li>Heimreise</li>
       </ul>
       <br />
