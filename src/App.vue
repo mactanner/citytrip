@@ -126,6 +126,13 @@ export default {
       if (btoa(this.cityName.trim().toLowerCase()) === 'bW9udHBlbGxpZXI=') {
         this.isDestinationFound = true
         this.wrongInput = false
+
+      // Scroll to the top of the page
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth' // Optional: adds a smooth scrolling effect
+      });
+
       } else {
         this.isDestinationFound = false
         this.wrongInput = true
