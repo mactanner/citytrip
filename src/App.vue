@@ -53,19 +53,19 @@
         <a href="https://www.jost-hotel-montpellier.com/" target="_blank">Hotel Webseite</a>
       </div>
       <h2>Programm</h2>
-      <h3>Freitag</h3>
+      <h3>Freitag, 6. September</h3>
       <ul>
         <li>Anreisen & Einpuffen</li>
         <li>Savoir-vivre und Laissez-faire in Montpellier</li>
         <li>Nachtessen im Angus & Bacchus</li>
       </ul>
-      <h3>Samstag</h3>
+      <h3>Samstag, 7. September</h3>
       <ul>
         <li>Petit-déjeuner</li>
         <li>Savoir-vivre und Laissez-faire in Montpellier</li>
         <li>Rugby Spiel: Montpellier Hérault Rugby - Lyon Olympique Universitaire</li>
       </ul>
-      <h3>Sonntag</h3>
+      <h3>Sonntag, 8. September</h3>
       <ul>
         <li>Petit-déjeuner</li>
         <li>Savoir-vivre und Laissez-faire in Pérols am Meer</li>
