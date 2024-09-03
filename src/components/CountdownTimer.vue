@@ -26,7 +26,7 @@ export default {
 
       if (distance < 0) {
         clearInterval(this.interval)
-        this.countdown = "Los geht's!"
+        this.countdown = '🚀'
         return
       }
 
