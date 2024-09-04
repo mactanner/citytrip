@@ -20,8 +20,6 @@
         Die pulsierende Stadt im sonnigen Süden Frankreichs erwartet uns mit ihrer charmanten
         Altstadt, lebhaften Atmosphäre und der Nähe zum funkelnden Mittelmeer! 🤩
       </p>
-      <br />
-      <p>Hier gibt's schon mal einige Infos für euch.</p>
       <h2>Reise</h2>
       <h3>Treffpunkt</h3>
       <p>
