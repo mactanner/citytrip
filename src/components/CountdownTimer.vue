@@ -35,7 +35,12 @@ export default {
       const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60))
       const seconds = Math.floor((distance % (1000 * 60)) / 1000)
 
-      this.countdown = `${days}d ${hours}h ${minutes}min ${seconds}s`
+      let countdownParts = []
+      if (days > 0) countdownParts.push(`${days}d`)
+      if (days > 0 || hours > 0) countdownParts.push(`${hours}h`)
+      if (days > 0 || hours > 0 || minutes > 0) countdownParts.push(`${minutes}min`)
+      countdownParts.push(`${seconds}s`)
+      this.countdown = countdownParts.join(' ')
     }
   },
   beforeUnmount() {
