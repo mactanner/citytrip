@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      countDownDate: new Date('September 6, 2024 08:00:00').getTime(),
+      countDownDate: new Date('September 6, 2024 08:30:00').getTime(),
       countdown: ''
     }
   },
